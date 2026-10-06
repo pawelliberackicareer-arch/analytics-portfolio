@@ -1,4 +1,4 @@
-# 09 · Defect Rate & DPMO: Incorrect Escalations in a Returns Process
+# 07 · Defect Rate & DPMO: Incorrect Escalations in a Returns Process
 
 > ✅ **Status:** SQL pipeline done · Power BI report: build guide ready · **Tools:** SQL (PostgreSQL, written to run on Amazon Redshift), Power BI · **Data:** synthetic, 458,000 graded units over 12 weeks
 
