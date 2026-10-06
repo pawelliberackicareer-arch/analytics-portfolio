@@ -2,7 +2,7 @@
 
 > ✅ **Status:** done · **Tools:** Excel (formulas, conditional formatting, charts) · **Data:** 100,000 purchase transactions, 2024–2025, anonymised
 
-![Dashboard preview]
+## Dashboard Preview
 
 <img width="1259" height="984" alt="image" src="https://github.com/user-attachments/assets/5ad5968d-3110-4256-9724-578338057c7e" />
 <img width="1257" height="870" alt="image" src="https://github.com/user-attachments/assets/82c85788-b64c-4bfb-9f17-7c651aa6ebbf" />
@@ -52,6 +52,3 @@ A company spends over 6 billion PLN in two years across 50 suppliers and 10 buye
 - Marketing services grew **+6.9% year on year** vs inflation (PPI) of about **3.5%**
 - **2,177 possible split orders**, a sign that orders may be divided to stay under tender limits
 
-## Full dashboard
-<details>
-<s
