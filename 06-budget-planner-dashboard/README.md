@@ -1,4 +1,4 @@
-# 08 · Private Budget Planner (Poland)
+# 06· Private Budget Planner (Poland)
 
 > ✅ **Status:** live · **Tools:** HTML, plain JavaScript, SVG charts (one file, no libraries) · 🔗 **[Open the dashboard](https://pawelliberackicareer-arch.github.io/Private-Budget-Dashboard/)** · 📁 **[Source code](https://github.com/pawelliberackicareer-arch/Private-Budget-Dashboard)**
 
