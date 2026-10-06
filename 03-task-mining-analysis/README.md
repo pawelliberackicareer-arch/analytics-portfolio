@@ -9,6 +9,13 @@
 > **About the data:** company names, systems, people and numbers are changed, and the case is retold in my own words. The analysis, scoring and recommendations are my own work.
 
 ---
+## Charts overlook
+
+Chart 1 :
+<img width="1259" height="405" alt="image" src="https://github.com/user-attachments/assets/ff0c60ec-bf5c-41b2-b9cb-aa0e915bccf1" />
+
+Chart 2 :
+<img width="1279" height="559" alt="image" src="https://github.com/user-attachments/assets/3d616037-cf86-4689-ae0b-8bdee1266309" />
 
 ## The task (in my words)
 
