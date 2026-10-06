@@ -1,4 +1,4 @@
-# 03 · Procurement Intelligence Dashboard
+# 04 · Procurement Intelligence Dashboard
 
 > ✅ **Status:** done · **Tools:** Excel (formulas, conditional formatting, charts) · **Data:** 100,000 purchase transactions, 2024–2025, anonymised
 
