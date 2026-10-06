@@ -1,6 +1,12 @@
 # 06· Private Budget Planner (Poland)
 
 > ✅ **Status:** live · **Tools:** HTML, plain JavaScript, SVG charts (one file, no libraries) · 🔗 **[Open the dashboard](https://pawelliberackicareer-arch.github.io/Private-Budget-Dashboard/)** · 📁 **[Source code](https://github.com/pawelliberackicareer-arch/Private-Budget-Dashboard)**
+## Dashboard Preview
+
+<img width="1171" height="1228" alt="image" src="https://github.com/user-attachments/assets/493153b2-c80b-4c36-afa4-e4ef0eeb92d8" />
+<img width="1145" height="1159" alt="image" src="https://github.com/user-attachments/assets/11737ef7-93ff-437f-a4c0-8403423dc258" />
+<img width="1179" height="777" alt="image" src="https://github.com/user-attachments/assets/739604f5-42ba-4e2b-8105-fe473bcb10a9" />
+<img width="1046" height="1173" alt="image" src="https://github.com/user-attachments/assets/a7974ce5-ebb4-4ab8-87b6-8847dc596460" />
 
 ## Business problem
 Most budget tools show what you already spent. Planning ahead in Poland needs more: take-home pay after ZUS and tax, the PIT-0 tax-free limit for people under 26, and a view of savings, investments and net worth over the year.
