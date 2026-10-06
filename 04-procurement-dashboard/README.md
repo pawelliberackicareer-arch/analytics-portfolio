@@ -2,7 +2,10 @@
 
 > ✅ **Status:** done · **Tools:** Excel (formulas, conditional formatting, charts) · **Data:** 100,000 purchase transactions, 2024–2025, anonymised
 
-![Dashboard preview](img/dashboard-top.png)
+## Dashboard preview
+
+<img width="1218" height="988" alt="image" src="https://github.com/user-attachments/assets/572ff1ee-2bac-4749-8670-f0ec2233e778" />
+<img width="1227" height="863" alt="image" src="https://github.com/user-attachments/assets/d39d3b85-10f0-462a-8043-aa10d76d8e0c" />
 
 ## Business problem
 A company spends over 6 billion PLN in two years across 50 suppliers and 10 buyers. The purchasing team needs to answer four questions quickly:
