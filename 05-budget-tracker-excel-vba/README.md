@@ -2,7 +2,10 @@
 
 > ✅ **Status:** workbook and VBA code done · **Tools:** Excel (tables, SUMIFS, named ranges, data validation, conditional formatting, charts), VBA (UserForm, ListObject, PDF export) · **Data:** invented demo data
 
-![Dashboard preview](img/dashboard-top.png)
+## Dashboard preview
+
+<img width="1486" height="1055" alt="image" src="https://github.com/user-attachments/assets/c6553282-93eb-4c09-b2a1-a241e8156ad9" />
+<img width="1339" height="843" alt="image" src="https://github.com/user-attachments/assets/7eef38e9-9a24-4be6-9557-b0c02aa2f6a5" />
 
 ## Business problem
 I tracked my own spending in a large Excel sheet: one column per day (almost 500 columns), one row per category, and summary formulas that scanned the whole row up to the last Excel column. It worked, but it was slow, hard to read for anyone else, and easy to break: the balance formula was typed by hand in each column and was not the same everywhere.
