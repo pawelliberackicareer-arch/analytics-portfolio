@@ -1,7 +1,8 @@
 # Analytics Portfolio — Paweł Liberacki
 
-This repository shows how I work with data: from a business problem, through SQL and data modelling, to a dashboard or tool that people use every day.
-> **About the data:** every project here is **rebuilt on synthetic data**. The logic follows real projects I led in a large-scale logistics operation, but no company data, code or internal names are used.
+This repository shows how I work: from a business problem, through process analysis and data, to a dashboard, a tool or a clear recommendation.
+
+> **About the data:** no real company data is used. Case studies are retold in my own words with changed names and numbers, and datasets are anonymised or synthetic. Shares, trends and conclusions are kept, so the analysis stays the same.
 
 ---
 
@@ -9,12 +10,15 @@ This repository shows how I work with data: from a business problem, through SQL
 
 | # | Project | What it shows | Tools | Status |
 |---|---|---|---|---|
-| 01 | [Defect rate & DPMO analysis](./01-defect-rate-dpmo) | Multi-stage joins, removing duplicates, DPMO per employee, threshold flags | SQL | 🚧 In progress |
-| 02 | [Process flow & star schema](./02-process-flow-star-schema) | Kimball-style model (facts + dimensions), live flow dashboard | SQL, Power BI | 🚧 Planned |
-| 03 | [Procurement analytics](./03-procurement-analytics) | 100,000-row dataset, supplier evaluation, anomaly detection, red flags | Excel, Power Query | 🚧 Planned |
-| 04 | [Excel / VBA toolkit](./04-excel-vba-toolkit) | Operational tools with user forms: role assignment, shift handover | Excel, VBA | 🚧 Planned |
-| 05 | [Financial diagnostic pack](./05-financial-diagnostic-pack) | KPI traffic lights, exception flags, 24-month projection | Excel, Power BI | 🚧 Planned |
-| 06 | [Redshift vs BigQuery](./06-redshift-vs-bigquery) | The same analysis written in two SQL dialects | SQL | 🚧 Planned |
+| 01 | [Automation prioritisation](./01-automation-prioritisation) | Scoring model for 4 processes, ranking, roadmap, "fix first, automate second" solution design | Excel, Power Query, SharePoint, RPA concepts | ✅ Done |
+| 02 | [Process map (BPMN)](./02-process-map) | Swimlane map of a manual process, weak points, to-be idea | BPMN, draw.io, Mermaid | ✅ Done |
+| 03 | [Task-mining analysis](./03-task-mining-analysis) | Critical reading of productivity dashboards, process ownership, KPI thresholds | Task-mining dashboards | ✅ Done |
+| 04 | [Procurement intelligence dashboard](./04-procurement-dashboard) | 100,000 transactions, anomaly detection (μ+2σ, split orders), supplier risk scorecard, red flags | Excel | ✅ Done |
+| 05 | [Personal budget tracker](./05-budget-tracker-excel-vba) | Wide sheet rebuilt into a table-based tracker: budget vs actual, balance and net worth, UserForm and macros | Excel, VBA | ✅ Done |
+| 06 | [Private budget planner](./06-budget-planner-dashboard) | Live web dashboard: take-home pay after ZUS and tax, PIT-0 tracker, net worth, tax relief finder | HTML, JavaScript, SVG | ✅ Live |
+| 07 | [Defect rate & DPMO](./07-defect-rate-dpmo) | 3-stage SQL pipeline (458k units), over-escalation flags vs peers, DPMO, audit queue, corrective actions, Power BI report | SQL, Power BI | ✅ SQL done · Power BI in progress |
+
+> Projects 01–03 are three parts of one case study for an Automation Business Analyst role.
 
 ---
 
