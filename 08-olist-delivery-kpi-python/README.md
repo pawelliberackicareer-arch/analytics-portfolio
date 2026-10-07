@@ -74,15 +74,16 @@ Row check: 96,478 delivered − 8 − 23 = **96,447** orders in the analysis.
 **Goal:** how good is delivery overall, where is it worst, and is it getting better?
 KPIs are calculated overall, by customer state, by month and by seller. Groups that are too small are not ranked (states: 500+ orders, sellers: 30+ orders), because small groups give unstable percentages.
 
-![Late rate by month](output/charts/01_late_rate_by_month.png)
+<img width="1275" height="496" alt="image" src="https://github.com/user-attachments/assets/104c9abb-45a7-4e61-ac6d-745fa8863f3b" />
 
-![Late rate by state](output/charts/02_late_rate_by_state.png)
+<img width="1096" height="430" alt="image" src="https://github.com/user-attachments/assets/3e636b05-530d-4ff7-9b2e-cc1a5109b480" />
+
 
 ### Step 5 · Do late deliveries hurt reviews?
 **Goal:** show the business cost of a late delivery.
 Delays are grouped into ranges with `pd.cut`. The review score falls **step by step** as the delay grows: 4.31 → 4.18 → 4.03 → 3.29 → 2.10 → 1.67.
 
-![Review score by delay](output/charts/03_review_by_delay.png)
+<img width="1189" height="405" alt="image" src="https://github.com/user-attachments/assets/384ecfc8-e92a-464a-b923-ec4253954289" />
 
 This is a strong link, not proof of cause: a bad review can also be about the product.
 
@@ -96,7 +97,7 @@ This is a strong link, not proof of cause: a bad review can also be about the pr
 - **Audit flag:** seller DPMO above **1.5 × network (143,850)** and at least **30 orders**.
 - **Audit order:** by **excess defects** = seller defects minus the defects expected at the network rate for that seller's volume. This sends the audit where it removes the most problems, not just to the highest rate.
 
-![Seller DPMO](output/charts/04_seller_dpmo.png)
+<img width="1270" height="382" alt="image" src="https://github.com/user-attachments/assets/cf7c2cc1-6ac5-4718-894e-ecf23dc94d13" />
 
 The chart has a funnel shape: small sellers vary much more by chance. The seller with ~960 orders does not have the highest DPMO, but has the most excess defects (144.9), so it is **priority 1**.
 
@@ -116,14 +117,8 @@ Four charts are saved as PNG files with titles, axis labels and reference lines 
 | Audit list | 83 flagged sellers in priority order + chart |
 | Data quality | The quality log from step 2 |
 
-![Excel report - summary](docs/excel_summary.png)
-
-![Excel report - audit list](docs/excel_audit_list.png)
-
 ### Step 9 · One command runs everything
 `run_all.py` runs steps 2–8 in order. If a step fails, the pipeline stops (`check=True`), so the report is never built on wrong data.
-
-![Pipeline run](docs/run_all.png)
 
 ---
 
