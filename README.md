@@ -17,6 +17,7 @@ This repository shows how I work: from a business problem, through process analy
 | 05 | [Personal budget tracker](./05-budget-tracker-excel-vba) | Wide sheet rebuilt into a table-based tracker: budget vs actual, balance and net worth, UserForm and macros | Excel, VBA | ✅ Done |
 | 06 | [Private budget planner](./06-budget-planner-dashboard) | Live web dashboard: take-home pay after ZUS and tax, PIT-0 tracker, net worth, tax relief finder | HTML, JavaScript, SVG | ✅ Live |
 | 07 | [Defect rate & DPMO](./07-defect-rate-dpmo) | 3-stage SQL pipeline (458k units), over-escalation flags vs peers, DPMO, audit queue, corrective actions, Power BI report | SQL, Power BI | ✅ SQL done · Power BI in progress |
+| 08 | [Olist delivery KPIs & seller DPMO](./08-olist-delivery-kpi-python) | 96k orders: data quality checks, joins with row-count control, delivery KPIs, review impact, seller DPMO audit list, automatic Excel report | Python (pandas, matplotlib, openpyxl) | ✅ Done |
 
 > Projects 01–03 are three parts of one case study for an Automation Business Analyst role.
 
