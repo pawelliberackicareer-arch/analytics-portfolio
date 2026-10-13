@@ -1,0 +1,52 @@
+audit_id,audit_week,login,manager_login,shift,escalations_checked,errors_found,audit_result,corrective_action,disciplinary_step,logged_in_audit_system,follow_up_audit_week
+1,2,assoc_003,mgr_01,DAY,21,9,FAILED,Retraining + documented coaching,1,YES,4
+2,2,assoc_004,mgr_01,DAY,21,9,FAILED,Retraining + documented coaching,1,YES,4
+3,2,assoc_005,mgr_01,DAY,21,13,FAILED,Retraining + documented coaching,1,YES,4
+4,2,assoc_011,mgr_01,DAY,21,8,FAILED,Retraining + documented coaching,1,YES,4
+5,2,assoc_029,mgr_03,DAY,21,9,FAILED,Retraining + documented coaching,1,YES,4
+6,2,assoc_040,mgr_04,NIGHT,21,15,FAILED,Retraining + documented coaching,1,YES,4
+7,2,assoc_049,mgr_05,NIGHT,21,3,FAILED,Retraining + documented coaching,1,YES,4
+8,2,assoc_052,mgr_05,NIGHT,21,5,FAILED,Retraining + documented coaching,1,YES,4
+9,2,assoc_059,mgr_05,NIGHT,21,3,FAILED,Retraining + documented coaching,1,YES,4
+10,2,assoc_062,mgr_06,NIGHT,21,11,FAILED,Retraining + documented coaching,1,YES,4
+11,2,assoc_066,mgr_06,NIGHT,21,12,FAILED,Retraining + documented coaching,1,YES,4
+12,2,assoc_068,mgr_06,NIGHT,21,8,FAILED,Retraining + documented coaching,1,YES,4
+13,2,assoc_072,mgr_06,NIGHT,21,13,FAILED,Retraining + documented coaching,1,YES,4
+14,4,assoc_006,mgr_01,DAY,21,15,FAILED,Retraining + documented coaching,1,YES,6
+15,4,assoc_032,mgr_03,DAY,21,3,FAILED,Retraining + documented coaching,1,YES,6
+16,4,assoc_047,mgr_04,NIGHT,21,3,FAILED,Retraining + documented coaching,1,YES,6
+17,4,assoc_050,mgr_05,NIGHT,21,1,FAILED,Retraining + documented coaching,1,YES,6
+18,4,assoc_054,mgr_05,NIGHT,21,5,FAILED,Retraining + documented coaching,1,YES,6
+19,5,assoc_003,mgr_01,DAY,21,5,FAILED,Retraining + first written warning,2,YES,7
+20,5,assoc_004,mgr_01,DAY,21,13,FAILED,Retraining + first written warning,2,YES,7
+21,5,assoc_005,mgr_01,DAY,21,7,FAILED,Retraining + first written warning,2,YES,7
+22,5,assoc_011,mgr_01,DAY,21,10,FAILED,Retraining + first written warning,2,YES,7
+23,5,assoc_029,mgr_03,DAY,21,9,FAILED,Retraining + first written warning,2,YES,7
+24,5,assoc_037,mgr_04,NIGHT,21,5,FAILED,Retraining + documented coaching,1,YES,7
+25,5,assoc_040,mgr_04,NIGHT,21,8,FAILED,Retraining + first written warning,2,YES,7
+26,5,assoc_052,mgr_05,NIGHT,21,12,FAILED,Retraining + first written warning,2,YES,7
+27,5,assoc_059,mgr_05,NIGHT,21,13,FAILED,Retraining + first written warning,2,YES,7
+28,5,assoc_062,mgr_06,NIGHT,21,12,FAILED,Retraining + first written warning,2,YES,7
+29,5,assoc_066,mgr_06,NIGHT,21,9,FAILED,Retraining + first written warning,2,YES,7
+30,5,assoc_068,mgr_06,NIGHT,21,8,FAILED,Retraining + first written warning,2,YES,7
+31,5,assoc_072,mgr_06,NIGHT,21,7,FAILED,Retraining + first written warning,2,YES,7
+32,6,assoc_051,mgr_05,NIGHT,21,4,FAILED,Retraining + documented coaching,1,YES,8
+33,7,assoc_006,mgr_01,DAY,21,10,FAILED,Retraining + first written warning,2,YES,9
+34,7,assoc_016,mgr_02,DAY,21,0,PASSED,No action,0,NO,
+35,7,assoc_054,mgr_05,NIGHT,21,2,FAILED,Retraining + first written warning,2,YES,9
+36,8,assoc_003,mgr_01,DAY,21,3,FAILED,Retraining + final written warning,3,YES,10
+37,8,assoc_004,mgr_01,DAY,21,5,FAILED,Retraining + final written warning,3,YES,10
+38,8,assoc_011,mgr_01,DAY,21,11,FAILED,Retraining + final written warning,3,YES,10
+39,8,assoc_021,mgr_02,DAY,21,4,FAILED,Retraining + documented coaching,1,YES,10
+40,8,assoc_024,mgr_02,DAY,21,6,FAILED,Retraining + documented coaching,1,YES,10
+41,8,assoc_029,mgr_03,DAY,21,1,FAILED,Retraining + final written warning,3,YES,10
+42,8,assoc_040,mgr_04,NIGHT,21,4,FAILED,Retraining + final written warning,3,YES,10
+43,8,assoc_052,mgr_05,NIGHT,21,4,FAILED,Retraining + final written warning,3,YES,10
+44,8,assoc_059,mgr_05,NIGHT,21,3,FAILED,Retraining + final written warning,3,YES,10
+45,8,assoc_062,mgr_06,NIGHT,21,4,FAILED,Retraining + final written warning,3,YES,10
+46,8,assoc_066,mgr_06,NIGHT,21,6,FAILED,Retraining + final written warning,3,YES,10
+47,8,assoc_068,mgr_06,NIGHT,21,2,FAILED,Retraining + final written warning,3,YES,10
+48,8,assoc_072,mgr_06,NIGHT,21,2,FAILED,Retraining + final written warning,3,YES,10
+49,9,assoc_005,mgr_01,DAY,21,6,FAILED,Retraining + final written warning,3,YES,11
+50,12,assoc_011,mgr_01,DAY,21,4,FAILED,Retraining + final written warning,3,YES,14
+51,12,assoc_068,mgr_06,NIGHT,21,0,PASSED,No action,0,NO,
